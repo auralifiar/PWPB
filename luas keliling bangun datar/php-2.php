@@ -115,7 +115,7 @@
         echo "Diketahui;<br />";
         echo "Alas Segitiga = $alas<br />";
         echo "Tinggi Segitiga = $tinggi<br />";
-        echo "Maka luas segitiga sama dengan 1/2 ($alas x $tinggi) = $luas_segitiga cm";
+        echo "Luas segitiga sama dengan 1/2 ($alas x $tinggi) = $luas_segitiga cm";
         }
     ?>
 
@@ -219,7 +219,7 @@
 			echo "Diketahui;<br />";
 			echo "Diagonal 1 = $d1 cm<br />";
 			echo "Diagonal 2 = $d2 cm<br />";
-			echo "Maka luas belah ketupat adalah $luas cm";
+			echo "Luas belah ketupat adalah $luas cm";
 		}
 	?>		
 
