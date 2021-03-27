@@ -1,0 +1,12 @@
+html,
+body {
+  height: 3000px;
+}
+
+#about {
+  background-color: lightcyan;
+}
+
+#contact {
+  background-color: lightcyan;
+}
